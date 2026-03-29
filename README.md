@@ -80,7 +80,7 @@ Skills that involve heavy lifting fork work to specialized agents:
 ### Quick Install
 
 ```bash
-git clone https://github.com/<your-username>/claude-code-databricks-ml.git
+git clone https://github.com/duonginspace/claude-code-databricks-ml.git
 cd claude-code-databricks-ml
 bash setup.sh
 ```
